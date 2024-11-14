@@ -33,7 +33,7 @@ This repository provides several language model variants to suit different tasks
 
 ## Privacy and Ethical Considerations
 
-Due to the **Mental Health Law** and privacy protection policies in China, particularly those surrounding sensitive medical data, the **data processing** and **feature engineering** code cannot be shared. These processes are conducted within a private, and are not accessible via external networks.
+Due to the **Mental Health Law** and privacy protection policies in China, particularly those surrounding sensitive medical data, the **data processing** and **feature engineering** code cannot be shared. These processes are conducted within a private enviornment, and are not accessible via external networks.
 
 For **ethical reasons**, we cannot share any model training code or data processing scripts related to the dataset used in the experiments, as this would potentially expose patient information.
 
